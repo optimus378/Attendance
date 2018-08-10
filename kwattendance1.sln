@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kwattendance1", "kwattendance1.pyproj", "{180B2F3A-FA03-4708-87BD-2697A39F867B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180B2F3A-FA03-4708-87BD-2697A39F867B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180B2F3A-FA03-4708-87BD-2697A39F867B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE11DEB7-81E4-4CBE-B781-C970D31361F3}
+	EndGlobalSection
+EndGlobal
